@@ -31,7 +31,7 @@ chsh -s /bin/zsh
 2. Clone the repository:
 
 	```sh
-	git clone <repository-url> ~/macos-setup
+	git clone https://github.com/siaulich/macOS-setup ~/macos-setup
 	cd ~/macos-setup
 	```
 
