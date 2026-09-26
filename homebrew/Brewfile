@@ -1,0 +1,20 @@
+tap "local/versioned-root"
+tap "simi/local-root"
+# Cryptography and SSL/TLS Toolkit
+brew "openssl@3"
+# Play, record, convert, and stream select audio and video codecs
+brew "ffmpeg"
+# Package compiler and linker metadata toolkit
+brew "pkgconf"
+# Interpreted, interactive, object-oriented programming language
+brew "python@3.14"
+# Rust toolchain installer
+brew "rustup"
+# UNIX shell (command interpreter)
+brew "zsh"
+# Real-time type-ahead completion for Zsh
+brew "zsh-autocomplete"
+# Fish-like fast/unobtrusive autosuggestions for zsh
+brew "zsh-autosuggestions"
+# Fish shell like syntax highlighting for zsh
+brew "zsh-syntax-highlighting"
