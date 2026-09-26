@@ -2,6 +2,24 @@
 
 Quickly configure a new Mac with the tools and settings used by this project.
 
+
+## Shell
+
+This setup uses Zsh as the default shell.
+
+Check the current shell:
+
+```bash
+echo $SHELL
+```
+
+While modern versions of macOS use Zsh by default, if you are using an older version, you can change the shell to Zsh with:
+
+```bash
+chsh -s /bin/zsh
+```
+
+
 ## Setup
 
 1. Install [Homebrew](https://brew.sh/) if it is not already installed:
